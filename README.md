@@ -128,54 +128,71 @@
 
 ---
 
-📜 Certifications
-💻 Programming & Development
+## 📜 Certifications  
 
-✅ C# Programming – Aptech
-✅ Node.js – MindLuster, Simplilearn
-✅ Android Development – Great Learning, Simplilearn
+### 💻 Programming & Development  
+- ✅ **C# Programming** – Aptech  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+- ✅ **Node.js** – MindLuster, Simplilearn  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+- ✅ **Android Development** – Great Learning, Simplilearn  
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 
-🌐 Web & Frameworks
+### 🌐 Web & Frameworks  
+- ✅ **ASP.Net MVC** – MindLuster  
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+- ✅ **ASP.Net Fundamentals** – Great Learning  
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+- ✅ **API & REST API** – Great Learning  
+  ![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white)  
 
-✅ ASP.Net MVC – MindLuster
-✅ ASP.Net Fundamentals – Great Learning
-✅ API & REST API – Great Learning
+### 🗄️ Databases  
+- ✅ **MongoDB** – Great Learning, Simplilearn  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+- ✅ **SQL For Data Science** – Coursera  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-🗄️ Databases
+### ☁️ Cloud & DevOps  
+- ✅ **Docker Training** – KodeKloud  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+- ✅ **Git & GitHub** – MindLuster  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+- ✅ **Jira Fundamentals** – Atlassian University  
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
-✅ MongoDB – Great Learning, Simplilearn
-✅ SQL For Data Science – Coursera
+### 🤖 Artificial Intelligence & Machine Learning  
+- ✅ **Intro to Artificial Intelligence & ML** – Great Learning  
+  ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
+  ![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)  
+- ✅ **Deep Learning** – Simplilearn  
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 
-☁️ Cloud & DevOps
+### 🌐 Networking & Systems  
+- ✅ **CCNAv7: Introduction to Networking** – Cisco Networking Academy  
+  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+- ✅ **Introduction to Hardware & Operating Systems** – IBM (Coursera)  
+  ![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)  
+  ![OS](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logo=linux&logoColor=white)  
+- ✅ **Computer Architecture** – Great Learning  
+  ![CPU](https://img.shields.io/badge/Computer%20Architecture-008000?style=for-the-badge&logo=intel&logoColor=white)  
 
-✅ Docker Training – KodeKloud
-✅ Git & GitHub – MindLuster
-✅ Jira Fundamentals – Atlassian University
+### 📋 Project Management & Agile  
+- ✅ **Project Management Essential** – Management Strategy Institute  
+  ![PMI](https://img.shields.io/badge/Project%20Management-217346?style=for-the-badge&logo=Microsoft%20Project&logoColor=white)  
+- ✅ **Scrum Fundamental Certified** – SCRUMstudy  
+  ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)  
 
-🤖 Artificial Intelligence & Machine Learning
+### 🧪 QA & Testing  
+- ✅ **QA Fundamentals** – 10Pearls University  
+  ![QA](https://img.shields.io/badge/QA-008080?style=for-the-badge&logo=testinglibrary&logoColor=white)  
+- ✅ **Selenium Basics** – Great Learning  
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 
-✅ Intro to Artificial Intelligence & ML – Great Learning
-✅ Deep Learning – Simplilearn
+### 🌍 Other Skills  
+- ✅ **English Language A2 (CEFR)** – Certified  
+  ![Language](https://img.shields.io/badge/English-0052CC?style=for-the-badge&logo=googlescholar&logoColor=white)  
 
-🌐 Networking & Systems
-
-✅ CCNAv7: Introduction to Networking – Cisco Networking Academy
-✅ Introduction to Hardware & Operating Systems – IBM (Coursera)
-✅ Computer Architecture – Great Learning
-
-📋 Project Management & Agile
-
-✅ Project Management Essential – Management Strategy Institute
-✅ Scrum Fundamental Certified – SCRUMstudy
-
-🧪 QA & Testing
-
-✅ QA Fundamentals – 10Pearls University
-✅ Selenium Basics – Great Learning
-
-🌍 Other Skills
-
-✅ English Language A2 (CEFR) – Certified
 
 ---
 
