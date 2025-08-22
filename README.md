@@ -11,7 +11,6 @@
 - 💬 Ask me about **AI, and modern web stacks**  
 - ⚡ Fun fact: *I break things… just to rebuild them better* 😅  
 
----
 
 ## ✨ My Philosophy  
 
