@@ -1,86 +1,94 @@
-# 👋 Hi, I'm M. Huzaifa Mustafa  
+# Hi 👋, I'm M. Huzaifa Mustafa  
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-🚀 **Motivated Software Developer** | 💡 Passionate about **AI, Full-Stack Development & Modern Web Technologies**  
+💻 **Full Stack Developer | AI Enthusiast | Problem Solver | Trainer**  
 
-🎯 With hands-on internship experience and multiple academic/side projects, I love solving technical challenges, building scalable apps, and learning evolving technologies.  
-
----
-
-## 🌟 About Me  
-- 🔭 Currently pursuing **BS in Computer Science** @ MAJU  
-- 📚 Also enrolled in **Software Engineering Diploma** @ Aptech  
-- 🖥️ 1+ year of **teaching & development experience** (web + mobile)  
-- 💡 Interested in **AI, Machine Learning, Cybersecurity, and Full Stack Apps**  
-- ✨ Motto: *"Build. Break. Learn. Improve."*  
+🔭 I’m currently working on **AI-Powered Applications & Full Stack Projects**  
+🌱 Currently diving deeper into **Generative AI, Agentic AI, and Advanced Web Frameworks**  
+🐆 A **lone warrior** who thrives on challenges 👊👊  
+🤝 Passionate about **helping peers & juniors grow** 🎯  
+💬 Ask me about **React, Next.js, AI, and modern web dev stacks**  
+⚡ Fun fact: *I break things just to build them better* 😅  
 
 ---
 
-## 🛠️ Tech Stack  
+## ✨ Personal Quote  
 
-### 💻 Programming & Markup  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+> *"Your desire for Power is your greatest weakness.  
+> People aren't inspired by fear, they are moved by their ideals  
+> that call for strength, not domination."* – **M. Huzaifa Mustafa**  
 
-### 🖼️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+---
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
+## 💻 Tech Stack  
 
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
+**Languages**  
+`Python` • `JavaScript` • `PHP` • `C#` • `C++` • `HTML5` • `CSS3` • `XML`  
+
+**Frameworks / Platforms**  
+`React.js` • `React Native` • `Next.js` • `.NET` • `Angular CLI` • `Bootstrap` • `Tailwind CSS`  
+
+**Databases**  
+`MySQL` • `SQL Server (SSMS)` • `MongoDB (Basic)`  
+
+**Tools & Others**  
+`Git` • `Postman` • `Jira` • `Docker` • `Selenium` • `Lottie`  
+
+**Soft Skills**  
+Time Management • Problem Solving • Teamwork • Leadership • Creativity • Continuous Learning  
 
 ---
 
 ## 🚀 Featured Projects  
 
-- 🔊 **GeoSpeak AI Translator** – Next.js + Python (Aug 2025)  
+- 🌍 **GeoSpeak AI Translator** – Next.js + Python (Aug 2025)  
 - ✋ **Hear My Sign & Shop Mini App** – React Native (May 2025)  
-- 🤖 **AI Music Generator** – Python + Deep Learning (Jan 2025)  
+- 🎵 **AI Music Generator** – Python + Deep Learning (Jan 2025)  
 - 🌱 **AI Plant Disease Detection** – Python + ML (Jan 2025)  
+- 🏠 **Rent-Up** – React.js + Tailwind CSS (Nov 2024)  
+- 📚 **Web Magnetism, Real-State, Edusity** – React.js (Oct 2024)  
+- 🎨 **Savour & Spice, Blooming Petals, Aqua Marketing** – HTML/CSS/JS/PHP (Apr 2024)  
 - 📝 **Next Gen Blogging Website** – WordPress CMS (Jul 2023)  
 
-👉 Check out more on my [GitHub Repositories](https://github.com/huzaifamustafa-dev)
-
----
-
-## 🎓 Certifications  
-📌 *Some highlights:*  
-- ASP.Net MVC – *MindLuster*  
-- Docker Training – *KodeKloud*  
-- Deep Learning – *Simplilearn*  
-- QA Fundamentals – *10Pearls University*  
-- SQL for Data Science – *Coursera*  
-- Selenium Basics – *Great Learning*  
+👉 Check out more in my [Repositories](https://github.com/huzaifamustafa-dev)  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifamustafa-dev&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamustafa-dev&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifamustafa-dev&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamustafa-dev&theme=radical" height="180"/>
 </p>
 
 ---
 
-## 📫 Let's Connect  
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifamustafa-dev&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repo  
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=huzaifamustafa-dev&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="mailto:huzaifamustafa.dev1727@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
@@ -90,4 +98,4 @@
 
 ---
 
-✨ *Thanks for visiting my profile! Let's innovate, code, and grow together 🚀*  
+✨ *Push past your boundaries, go beyond, and keep building 🚀*  
