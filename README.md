@@ -8,7 +8,7 @@
 - 🌱 Learning **Generative AI, Agentic AI & Advanced Web Frameworks**  
 - 🔥 A relentless innovator, turning challenges into stepping stones 🚀  
 - 🤝 Helping peers & juniors grow into confident developers  
-- 💬 Ask me about **React, Next.js, AI, and modern web stacks**  
+- 💬 Ask me about **AI, and modern web stacks**  
 - ⚡ Fun fact: *I break things… just to rebuild them better* 😅  
 
 ---
