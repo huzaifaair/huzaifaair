@@ -12,6 +12,31 @@
 - ⚡ Fun fact: *I break things… just to rebuild them better* 😅  
 
 
+---
+
+## ⚡ Current Tech Stack  
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET Core 8" width="65" height="65" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular CLI" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" alt="SSMS" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="REST API" width="65" height="65" />
+  <img src="https://img.icons8.com/?size=512&id=JH2D7gX8MvP0&format=gif" alt="JWT Authentication" width="65" height="65" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcycDdiZnV0ZWVrcmdtdWk5YWc4a21pYXd2d2Zwa2F0ZXdnYzA2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oF5oUYTOhvFnO/200.webp" alt="AI Models" width="65" height="65" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTUxMWE5MzVucXkxZzYxZjJvbmNtbDNmbTIwZ3MxN2VtMWxxbzNwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgzoKnwFNmISR8I/giphy.webp" alt="Gen AI" width="65" height="65" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlsNWlrdjh3djF1Mm9rdXdkZWkzZ3U5aDNjNWt1Ynp6aGhhbG5iZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.webp" alt="Agentic AI" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=blazor" alt="Blazor" width="65" height="65" />
+</p>
+
+---
+
+
+
+
 ## ✨ My Philosophy  
 
 > *"Your desire for Power is your greatest weakness.  
