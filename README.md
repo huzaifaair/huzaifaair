@@ -128,29 +128,54 @@
 
 ---
 
-## 📜 Certifications  
+📜 Certifications
+💻 Programming & Development
 
-- ✅ **C# Programming** – Aptech  
-- ✅ **ASP.Net MVC** – MindLuster  
-- ✅ **Project Management Essential** – Management Strategy Institute  
-- ✅ **ASP.Net Fundamentals** – Great Learning  
-- ✅ **Git & GitHub** – MindLuster  
-- ✅ **Computer Architecture** – Great Learning  
-- ✅ **Introduction to Hardware & Operating Systems** – IBM (Coursera)  
-- ✅ **CCNAv7: Introduction to Networking** – Cisco Networking Academy  
-- ✅ **MongoDB** – Great Learning, Simplilearn  
-- ✅ **Docker Training** – KodeKloud  
-- ✅ **Jira Fundamentals** – Atlassian University  
-- ✅ **API & REST API** – Great Learning  
-- ✅ **Scrum Fundamental Certified** – SCRUMstudy  
-- ✅ **Node.js** – MindLuster, Simplilearn  
-- ✅ **Android Development** – Great Learning, Simplilearn  
-- ✅ **SQL For Data Science** – Coursera  
-- ✅ **QA Fundamentals** – 10Pearls University  
-- ✅ **Selenium Basics** – Great Learning  
-- ✅ **English Language A2 (CEFR)** – Certified  
-- ✅ **Intro to Artificial Intelligence & ML** – Great Learning  
-- ✅ **Deep Learning** – Simplilearn  
+✅ C# Programming – Aptech
+✅ Node.js – MindLuster, Simplilearn
+✅ Android Development – Great Learning, Simplilearn
+
+🌐 Web & Frameworks
+
+✅ ASP.Net MVC – MindLuster
+✅ ASP.Net Fundamentals – Great Learning
+✅ API & REST API – Great Learning
+
+🗄️ Databases
+
+✅ MongoDB – Great Learning, Simplilearn
+✅ SQL For Data Science – Coursera
+
+☁️ Cloud & DevOps
+
+✅ Docker Training – KodeKloud
+✅ Git & GitHub – MindLuster
+✅ Jira Fundamentals – Atlassian University
+
+🤖 Artificial Intelligence & Machine Learning
+
+✅ Intro to Artificial Intelligence & ML – Great Learning
+✅ Deep Learning – Simplilearn
+
+🌐 Networking & Systems
+
+✅ CCNAv7: Introduction to Networking – Cisco Networking Academy
+✅ Introduction to Hardware & Operating Systems – IBM (Coursera)
+✅ Computer Architecture – Great Learning
+
+📋 Project Management & Agile
+
+✅ Project Management Essential – Management Strategy Institute
+✅ Scrum Fundamental Certified – SCRUMstudy
+
+🧪 QA & Testing
+
+✅ QA Fundamentals – 10Pearls University
+✅ Selenium Basics – Great Learning
+
+🌍 Other Skills
+
+✅ English Language A2 (CEFR) – Certified
 
 ---
 
