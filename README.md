@@ -1,6 +1,6 @@
 # Hi 👋, I'm M. Huzaifa Mustafa  
 
-<img align="right" alt="Coding GIF" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 🎯 **Full Stack Developer | AI Enthusiast | Problem Solver | Trainer**  
 
