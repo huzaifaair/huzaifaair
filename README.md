@@ -20,7 +20,7 @@
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET Core 8" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular CLI" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server / SSMS" width="56" height="56" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSQL_Server_Management_Studio&psig=AOvVaw3biOOVEAMUEx3ZSUU6beD-&ust=1755970235292000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjIroL5no8DFQAAAAAdAAAAABAE" alt="SQL Server / SSMS" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="REST API" width="56" height="56" />
