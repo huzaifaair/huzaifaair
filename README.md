@@ -234,7 +234,7 @@
   <a href="mailto:huzaifamustafa.dev1727@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/muhammad-huzaifa-mustafa-77a96b266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/huzaifaair"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.instagram.com/h.u.z.a.i.f.a"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.instagram.com/h.u.z.a.i.fa"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
 </p>
 
 
