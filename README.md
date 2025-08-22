@@ -87,7 +87,8 @@
 - 🏠 **Rent-Up** – *React.js + Tailwind CSS*  
 - ✋ **Hear My Sign (Final Year Project)** – *React Native*  
 - 🛒 **Shop Mini App** – *React Native*  
-- 🤖 **Software Automation Testing** – *Selenium*  
+- 🤖 **Software Automation Testing** – *Selenium*
+- 🚀 GEOspeak – An AI-powered voice recognition and translation system - *Next.js*, *Python + AI*
 
 👉 Explore more on my [Repositories](https://github.com/huzaifaair)  
 
