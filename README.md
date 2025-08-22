@@ -14,25 +14,26 @@
 
 ---
 
-## ⚡ Current Tech Stack  
+---
+
+## ⚡ Current Tech Stack
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET Core 8" width="65" height="65" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular CLI" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" alt="SSMS" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="REST API" width="65" height="65" />
-  <img src="https://img.icons8.com/?size=512&id=JH2D7gX8MvP0&format=gif" alt="JWT Authentication" width="65" height="65" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcycDdiZnV0ZWVrcmdtdWk5YWc4a21pYXd2d2Zwa2F0ZXdnYzA2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oF5oUYTOhvFnO/200.webp" alt="AI Models" width="65" height="65" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTUxMWE5MzVucXkxZzYxZjJvbmNtbDNmbTIwZ3MxN2VtMWxxbzNwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgzoKnwFNmISR8I/giphy.webp" alt="Gen AI" width="65" height="65" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlsNWlrdjh3djF1Mm9rdXdkZWkzZ3U5aDNjNWt1Ynp6aGhhbG5iZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.webp" alt="Agentic AI" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=blazor" alt="Blazor" width="65" height="65" />
+  <img src="https://cdn.simpleicons.org/csharp/9533EE" alt="C#" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET Core 8" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular CLI" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SSMS (SQL Server)" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="REST API" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT Authentication" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="AI Models / Gen AI / Agentic AI" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" width="56" height="56" />
 </p>
 
 ---
+
 
 
 
