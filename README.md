@@ -51,7 +51,7 @@ Time Management • Problem Solving • Teamwork • Leadership • Creativity �
 - 🎨 **Savour & Spice, Blooming Petals, Aqua Marketing** – HTML/CSS/JS/PHP (Apr 2024)  
 - 📝 **Next Gen Blogging Website** – WordPress CMS (Jul 2023)  
 
-👉 Check out more in my [Repositories](https://github.com/huzaifamustafa-dev)  
+👉 Check out more in my [Repositories](https://github.com/huzaifaair)  
 
 ---
 
