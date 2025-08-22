@@ -11,15 +11,12 @@
 - 💬 Ask me about **AI, and modern web stacks**  
 - ⚡ Fun fact: *I break things… just to rebuild them better* 😅  
 
-
----
-
 ---
 
 ## ⚡ Current Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/csharp/9533EE" alt="C#" width="56" height="56" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET Core 8" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular CLI" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" width="56" height="56" />
