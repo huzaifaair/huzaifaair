@@ -26,7 +26,9 @@
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT Authentication" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/openai/412991" alt="AI Models / Gen AI / Agentic AI" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="56" height="56" />
 </p>
+
 
 ---
 
