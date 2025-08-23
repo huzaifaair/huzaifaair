@@ -79,8 +79,8 @@
 
 
 ### 🌐 Languages  
-🇬🇧 English • 🇵🇰 Urdu  
-
+![English](https://img.shields.io/badge/English-000000?style=for-the-badge&logo=googletranslate&logoColor=white) 
+![Urdu](https://img.shields.io/badge/Urdu-006600?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
