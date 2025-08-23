@@ -68,8 +68,6 @@
 ### 💡 Soft Skills  
 ⏳ Time Management • 🧩 Problem Solving • 🤝 Teamwork • 🧭 Leadership • 🎨 Creativity • 📚 Continuous Learning  
 
----
-
 ### 🌐 Languages  
 🇬🇧 English • 🇵🇰 Urdu  
 
