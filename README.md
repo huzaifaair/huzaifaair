@@ -12,7 +12,7 @@
 - ⚡ Fun fact: *I break things… just to rebuild them better* 😅  
 
 
-## ⚡ Current Tech Stack
+ ⚡ Current Tech Stack
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="56" height="56" />
