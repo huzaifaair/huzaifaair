@@ -65,7 +65,18 @@
 ---
 
 ### 💡 Soft Skills  
-⏳ Time Management • 🧩 Problem Solving • 🤝 Teamwork • 🧭 Leadership • 🎨 Creativity • 📚 Continuous Learning  
+
+![Time Management](https://media.giphy.com/media/3o7btXJQm5DD8KkBRW/giphy.gif) **Time Management**  
+![Problem Solving](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) **Problem Solving**  
+![Teamwork](https://media.giphy.com/media/3o6fJbnwq2K8U5l7Ic/giphy.gif) **Teamwork**  
+![Leadership](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif) **Leadership**  
+![Effective Communication](https://media.giphy.com/media/l0Ex7MAf6gHf6ZbGM/giphy.gif) **Effective Communication**  
+![Critical Thinking](https://media.giphy.com/media/xT0GqF7v1iBVSHB1Di/giphy.gif) **Critical Thinking**  
+![Coaching](https://media.giphy.com/media/3ohs7YsXj6yQ88NzJS/giphy.gif) **Coaching**  
+![Attention to Detail](https://media.giphy.com/media/3o6fJcIMrWohU49VLK/giphy.gif) **Attention to Detail**  
+![Creativity](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif) **Creativity**  
+![Continuous Learning](https://media.giphy.com/media/26n6Gk16l0m4DGGI4/giphy.gif) **Continuous Learning**
+
 
 ### 🌐 Languages  
 🇬🇧 English • 🇵🇰 Urdu  
