@@ -65,17 +65,17 @@
 ---
 
 ### 💡 Soft Skills  
+![Time Management](https://img.shields.io/badge/Time_Management-FFDD00?style=for-the-badge) 
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-29AB87?style=for-the-badge) 
+![Teamwork](https://img.shields.io/badge/Teamwork-1E90FF?style=for-the-badge) 
+![Leadership](https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge) 
+![Effective Communication](https://img.shields.io/badge/Effective_Communication-FF4500?style=for-the-badge) 
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-228B22?style=for-the-badge) 
+![Coaching](https://img.shields.io/badge/Coaching-FF69B4?style=for-the-badge) 
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-20B2AA?style=for-the-badge) 
+![Creativity](https://img.shields.io/badge/Creativity-FF6347?style=for-the-badge) 
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-4169E1?style=for-the-badge)
 
-![Time Management](https://media.giphy.com/media/3o7btXJQm5DD8KkBRW/giphy.gif) **Time Management**  
-![Problem Solving](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) **Problem Solving**  
-![Teamwork](https://media.giphy.com/media/3o6fJbnwq2K8U5l7Ic/giphy.gif) **Teamwork**  
-![Leadership](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif) **Leadership**  
-![Effective Communication](https://media.giphy.com/media/l0Ex7MAf6gHf6ZbGM/giphy.gif) **Effective Communication**  
-![Critical Thinking](https://media.giphy.com/media/xT0GqF7v1iBVSHB1Di/giphy.gif) **Critical Thinking**  
-![Coaching](https://media.giphy.com/media/3ohs7YsXj6yQ88NzJS/giphy.gif) **Coaching**  
-![Attention to Detail](https://media.giphy.com/media/3o6fJcIMrWohU49VLK/giphy.gif) **Attention to Detail**  
-![Creativity](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif) **Creativity**  
-![Continuous Learning](https://media.giphy.com/media/26n6Gk16l0m4DGGI4/giphy.gif) **Continuous Learning**
 
 
 ### 🌐 Languages  
