@@ -137,7 +137,14 @@
 - 🌍 **GEOspeak**  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+- 🚌 **Online Bus Reservation System**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.NET Core 8 MVC](https://img.shields.io/badge/ASP.NET_Core_8_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+- 📝 **TalkToText Pro – AI Meeting Notes Generator**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+  ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 
 👉 Explore more on my [Repositories](https://github.com/huzaifaair)  
@@ -201,6 +208,9 @@
   ![QA](https://img.shields.io/badge/QA-008080?style=for-the-badge&logo=testinglibrary&logoColor=white)  
 - ✅ **Selenium Basics** – Great Learning  
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+- ✅ **Generative AI in Testing: Revolutionize Your QA Processes** – Udemy  
+  ![Generative AI](https://img.shields.io/badge/Generative_AI_in_Testing-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### 🌍 Other Skills  
 - ✅ **English Language A2 (CEFR)** – Certified  
@@ -214,15 +224,6 @@
 
 📖 **BS Computer Science** – Mohammad Ali Jinnah University *(2022 – 2026)*  
 📖 **Diploma in Software Engineering (ACCP 2.0)** – Aptech Institute *(2024 – 2027)*  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifamustafa-dev&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamustafa-dev&theme=tokyonight" height="180" />
-</p>
 
 ---
 
