@@ -31,7 +31,7 @@
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" width="56" height="56" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/groq/FF5A5F" alt="Groq" width="56" height="56" />
+  <img src="https://brandfetch.com/groq.com/logo.svg" alt="Groq" width="56" height="56" />
 </p>
 
 
