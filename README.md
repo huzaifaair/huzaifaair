@@ -211,6 +211,9 @@
 - ✅ **Generative AI in Testing: Revolutionize Your QA Processes** – Udemy  
   ![Generative AI](https://img.shields.io/badge/Generative_AI_in_Testing-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
+### ✔ CyberSecurity 
+- ✅ **Introduction to Cybersecurity** – Cisco Networking Academy  
+  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🌍 Other Skills  
 - ✅ **English Language A2 (CEFR)** – Certified  
